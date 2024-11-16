@@ -1,4 +1,3 @@
-
 import turtle
 
 def draw_circle(radius):
