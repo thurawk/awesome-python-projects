@@ -1,6 +1,6 @@
 # Basic Python Projects
 
-This repository contains a collection of Python projects in various domains, such as machine learning, games, shapes, text processing, and web scraping. Below is an overview of the project structure and descriptions.
+This repo contains beginner-to-intermediate Python projects across domains like machine learning, text processing, games, and web scraping. Great for self-study and practice!
 
 ## Table of Contents
 
