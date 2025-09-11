@@ -1,4 +1,4 @@
-# Basic Python Projects
+# Awesome Python Projects
 
 This repo contains beginner-to-intermediate Python projects across domains like machine learning, text processing, games, and web scraping. Great for self-study and practice!
 
